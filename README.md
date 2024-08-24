@@ -1,7 +1,7 @@
 <img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/69046031/181695572-d47ed99f-25a8-474d-87ef-48e000750a5e.png">
 
-<h1 align="center">Hi 👋, I am Faizal Kadiwal</h1> 
-<h3 align="center">A passionate full-stack developer from India.</h3><br><br>
+<h1 align="center">Hi 👋, I am Fardin Mansuri</h1> 
+<h3 align="center">A passionate Business Analyst from India.</h3><br><br>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/FaizalKadiwal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faizal kadiwal" height="30" width="40" /></a>
+<a href="https://twitter.com/FaizalKadiwal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fardin mansuri" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/faizal-kadiwal-026778233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizal kadiwal" height="30" width="40" /></a>
  <a href="https://www.hackerrank.com/faizalkadiwal108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faizal Kadiwal" height="30" width="40" /></a>
 </p>
