@@ -7,15 +7,15 @@
 
 ![](https://komarev.com/ghpvc/?username=faizal108&color=dc143c)
 <br>
-☞ ✨ Java is Robust  | 🌹 Python is Versatile
+☞ ✨   | 
 
-☞ 🐼 Full-Stack DEV
+☞ 🐼 IT Business Analyst
 
-☞ 💬 Ask me about **Java, Spring Boot, React, IOT**
+☞ 💬 Ask me about **Requirement gathering/elicitation, Data Analysis & Visualization, SDLC, Agile/Scrum, Waterfall, RUP, User Acceptance Testing (UAT), Documentation, Business Process Modeling, Project Management**
 
-☞ 📫 How to reach me **faizalkadiwal108@gmail.com**
+☞ 📫 How to reach me **fardinmansuri191@gmail.com**
 
-☞ 📄 Know about my experiences https://www.linkedin.com/in/faizal-kadiwal-026778233
+☞ 📄 Know about my experiences https://www.linkedin.com/in/fardin-mansuri-026778233
 <br>
 
 <h3 align="left">Connect with me:</h3>
