@@ -7,11 +7,11 @@
 
 ![](https://komarev.com/ghpvc/?username=faizal108&color=dc143c)
 <br>
-☞ ✨   | 
 
 ☞ 🐼 IT Business Analyst
 
-☞ 💬 Ask me about **Requirement gathering/elicitation, Data Analysis & Visualization, SDLC, Agile/Scrum, Waterfall, RUP, User Acceptance Testing (UAT), Documentation, Business Process Modeling, Project Management**
+☞ 💬 Ask me about **Requirement gathering/elicitation, Data Analysis & Visualization, SDLC, Agile/Scrum, Waterfall, RUP, User Acceptance Testing (UAT), Documentation, Business Process Modeling, 
+                   Project Management**
 
 ☞ 📫 How to reach me **fardinmansuri191@gmail.com**
 
